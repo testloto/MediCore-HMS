@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4db0bcf7-5475-4057-857d-5aec86d839f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/HospitalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/HospitalApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/common/dto/ApiResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/common/dto/ApiResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/common/exception/BadRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/common/exception/BadRequestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/common/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/common/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/common/exception/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/common/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/common/util/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/common/util/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/config/DataInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/config/DataInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/config/JwtConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/config/JwtConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/config/WebCorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/config/WebCorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/appointments/controller/AppointmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/appointments/controller/AppointmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/appointments/dto/AppointmentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/appointments/dto/AppointmentRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/appointments/dto/AppointmentResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/appointments/dto/AppointmentResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/appointments/dto/AppointmentUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/appointments/dto/AppointmentUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/appointments/entity/Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/appointments/entity/Appointment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/appointments/entity/AppointmentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/appointments/entity/AppointmentStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/appointments/repository/AppointmentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/appointments/repository/AppointmentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/appointments/service/AppointmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/appointments/service/AppointmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/AuthModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/AuthModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/dto/ApprovalRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/dto/ApprovalRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/dto/AuthRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/dto/AuthRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/dto/AuthResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/dto/AuthResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/dto/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/dto/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/dto/LoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/dto/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/dto/RegistrationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/dto/RegistrationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/dto/RegistrationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/dto/RegistrationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/entity/AccountStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/entity/AccountStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/entity/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/security/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/service/AdminAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/service/AdminAuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/auth/service/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/auth/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/controller/BillingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/controller/BillingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/dto/InvoiceItemRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/dto/InvoiceItemRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/dto/InvoiceItemResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/dto/InvoiceItemResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/dto/InvoiceRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/dto/InvoiceRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/dto/InvoiceResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/dto/InvoiceResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/dto/PaymentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/dto/PaymentRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/entity/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/entity/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/entity/InvoiceItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/entity/InvoiceItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/entity/PaymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/entity/PaymentMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/entity/PaymentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/entity/PaymentStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/repository/InvoiceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/repository/InvoiceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/billing/service/BillingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/billing/service/BillingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/dashboard/controller/DashboardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/dashboard/controller/DashboardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/dashboard/dto/DashboardStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/dashboard/dto/DashboardStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/dashboard/service/DashboardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/dashboard/service/DashboardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/doctors/controller/DoctorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/doctors/controller/DoctorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/doctors/dto/DoctorRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/doctors/dto/DoctorRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/doctors/dto/DoctorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/doctors/dto/DoctorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/doctors/entity/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/doctors/entity/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/doctors/repository/DoctorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/doctors/repository/DoctorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/doctors/service/DoctorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/doctors/service/DoctorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/controller/LaboratoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/controller/LaboratoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/dto/LabRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/dto/LabRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/dto/LabRequestResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/dto/LabRequestResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/dto/LabResultEntryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/dto/LabResultEntryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/dto/LabResultResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/dto/LabResultResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/dto/LabTestItemDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/dto/LabTestItemDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/dto/LabTestRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/dto/LabTestRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/dto/LabTestResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/dto/LabTestResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/entity/LabRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/entity/LabRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/entity/LabRequestStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/entity/LabRequestStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/entity/LabResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/entity/LabResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/entity/LabTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/entity/LabTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/repository/LabRequestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/repository/LabRequestRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/repository/LabResultRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/repository/LabResultRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/repository/LabTestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/repository/LabTestRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/laboratory/service/LaboratoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/laboratory/service/LaboratoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/patients/controller/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/patients/controller/PatientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/patients/dto/PatientRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/patients/dto/PatientRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/patients/dto/PatientResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/patients/dto/PatientResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/patients/entity/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/patients/entity/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/patients/repository/PatientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/patients/repository/PatientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/patients/service/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/patients/service/PatientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/controller/PharmacyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/controller/PharmacyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/dto/DispenseItemRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/dto/DispenseItemRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/dto/DispenseRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/dto/DispenseRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/dto/MedicineRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/dto/MedicineRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/dto/MedicineResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/dto/MedicineResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/dto/PrescriptionItemRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/dto/PrescriptionItemRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/dto/PrescriptionItemResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/dto/PrescriptionItemResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/dto/PrescriptionRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/dto/PrescriptionRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/dto/PrescriptionResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/dto/PrescriptionResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/dto/StockAdjustmentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/dto/StockAdjustmentRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/dto/StockMovementResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/dto/StockMovementResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/entity/Medicine.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/entity/Medicine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/entity/MovementType.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/entity/MovementType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/entity/Prescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/entity/Prescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/entity/PrescriptionItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/entity/PrescriptionItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/entity/PrescriptionStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/entity/PrescriptionStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/entity/StockMovement.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/entity/StockMovement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/repository/MedicineRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/repository/MedicineRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/repository/PrescriptionItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/repository/PrescriptionItemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/repository/PrescriptionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/repository/PrescriptionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/repository/StockMovementRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/repository/StockMovementRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/pharmacy/service/PharmacyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/pharmacy/service/PharmacyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/staff/controller/StaffController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/staff/controller/StaffController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/staff/dto/StaffAttendanceDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/staff/dto/StaffAttendanceDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/staff/dto/StaffLeaveRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/staff/dto/StaffLeaveRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/staff/dto/StaffRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/staff/dto/StaffRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/staff/dto/StaffResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/staff/dto/StaffResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/staff/entity/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/staff/entity/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/staff/entity/StaffDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/staff/entity/StaffDepartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/staff/entity/StaffPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/staff/entity/StaffPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/staff/repository/StaffRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/staff/repository/StaffRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hms/modules/staff/service/StaffService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/hms/modules/staff/service/StaffService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/schema.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3B4PrfC3gn1UM7s17jJYf0Hst9N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HospitalApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/ChitraSarkar/OneDrive - VRIZE Inc/Desktop/java/hms_backend/src/main/java/org/hms/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="HospitalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hms.HospitalApplication" />
+      <module name="hms_backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HospitalApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db0bcf7-5475-4057-857d-5aec86d839f2" name="Changes" comment="" />
+      <created>1773745572284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773745572284</updated>
+    </task>
+    <servers />
+  </component>
+</project>
