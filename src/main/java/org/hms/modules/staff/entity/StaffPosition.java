@@ -1,0 +1,49 @@
+package org.hms.modules.staff.entity;
+
+public enum StaffPosition {
+    // Administration
+    HOSPITAL_ADMINISTRATOR,
+    DEPUTY_ADMINISTRATOR,
+    OPERATIONS_MANAGER,
+
+    // HR
+    HR_MANAGER,
+    HR_EXECUTIVE,
+    RECRUITMENT_SPECIALIST,
+
+    // Finance
+    FINANCE_MANAGER,
+    ACCOUNTANT,
+    BILLING_SPECIALIST,
+
+    // IT
+    IT_MANAGER,
+    SYSTEM_ADMINISTRATOR,
+    NETWORK_ENGINEER,
+
+    // Nursing
+    NURSING_SUPERVISOR,
+    STAFF_NURSE,
+    HEAD_NURSE,
+
+    // Pharmacy
+    CHIEF_PHARMACIST,
+    STAFF_PHARMACIST,
+    PHARMACY_TECHNICIAN,
+
+    // Laboratory
+    LAB_MANAGER,
+    LAB_TECHNICIAN,
+    LAB_ASSISTANT,
+
+    // Front Office
+    RECEPTIONIST,
+    FRONT_DESK_EXECUTIVE,
+    PATIENT_COORDINATOR,
+
+    // Others
+    MEDICAL_RECORDS_TECHNICIAN,
+    HOUSEKEEPING_STAFF,
+    SECURITY_GUARD,
+    MAINTENANCE_STAFF
+}
